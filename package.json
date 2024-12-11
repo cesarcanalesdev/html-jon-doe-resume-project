@@ -2,7 +2,7 @@
   "name": "html-jon-doe-resume",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "browser-install": "npx playwright install chromium",
     "deps-install": "npx playwright install-deps",
